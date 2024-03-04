@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\ui\\dashboard\\nav-links.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:nextjs-dashboard\\app\\ui\\dashboard\\nav-links.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\dashboard\\invoices\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:nextjs-dashboard\\app\\dashboard\\invoices\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:nextjs-dashboard\\app\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\dashboard\\layout.tsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:nextjs-dashboard\\app\\dashboard\\layout.tsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\dashboard\\customers\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:nextjs-dashboard\\app\\dashboard\\customers\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\dashboard\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:nextjs-dashboard\\app\\dashboard\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:nextjs-dashboard\\app\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\ui\\home.module.css||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:nextjs-dashboard\\app\\ui\\home.module.css||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\ui\\dashboard\\sidenav.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:nextjs-dashboard\\app\\ui\\dashboard\\sidenav.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\ui\\fonts.ts||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:nextjs-dashboard\\app\\ui\\fonts.ts||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\ui\\invoices\\status.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:nextjs-dashboard\\app\\ui\\invoices\\status.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\ui\\global.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:nextjs-dashboard\\app\\ui\\global.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\ui\\search.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:nextjs-dashboard\\app\\ui\\search.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "nav-links.tsx",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\ui\\dashboard\\nav-links.tsx",
+              "RelativeDocumentMoniker": "nextjs-dashboard\\app\\ui\\dashboard\\nav-links.tsx",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\ui\\dashboard\\nav-links.tsx",
+              "RelativeToolTip": "nextjs-dashboard\\app\\ui\\dashboard\\nav-links.tsx",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-02-27T03:03:37.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "sidenav.tsx",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\ui\\dashboard\\sidenav.tsx",
+              "RelativeDocumentMoniker": "nextjs-dashboard\\app\\ui\\dashboard\\sidenav.tsx",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\ui\\dashboard\\sidenav.tsx",
+              "RelativeToolTip": "nextjs-dashboard\\app\\ui\\dashboard\\sidenav.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-02-27T02:54:39.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "layout.tsx",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\dashboard\\layout.tsx",
+              "RelativeDocumentMoniker": "nextjs-dashboard\\app\\dashboard\\layout.tsx",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\dashboard\\layout.tsx",
+              "RelativeToolTip": "nextjs-dashboard\\app\\dashboard\\layout.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-02-27T02:51:23.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\dashboard\\invoices\\page.tsx",
+              "RelativeDocumentMoniker": "nextjs-dashboard\\app\\dashboard\\invoices\\page.tsx",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\dashboard\\invoices\\page.tsx",
+              "RelativeToolTip": "nextjs-dashboard\\app\\dashboard\\invoices\\page.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-02-27T02:45:41.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\dashboard\\customers\\page.tsx",
+              "RelativeDocumentMoniker": "nextjs-dashboard\\app\\dashboard\\customers\\page.tsx",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\dashboard\\customers\\page.tsx",
+              "RelativeToolTip": "nextjs-dashboard\\app\\dashboard\\customers\\page.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-02-27T02:45:26.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\dashboard\\page.tsx",
+              "RelativeDocumentMoniker": "nextjs-dashboard\\app\\dashboard\\page.tsx",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\dashboard\\page.tsx",
+              "RelativeToolTip": "nextjs-dashboard\\app\\dashboard\\page.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-02-27T02:39:52.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "fonts.ts",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\ui\\fonts.ts",
+              "RelativeDocumentMoniker": "nextjs-dashboard\\app\\ui\\fonts.ts",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\ui\\fonts.ts",
+              "RelativeToolTip": "nextjs-dashboard\\app\\ui\\fonts.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-02-26T22:32:17.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "status.tsx",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\ui\\invoices\\status.tsx",
+              "RelativeDocumentMoniker": "nextjs-dashboard\\app\\ui\\invoices\\status.tsx",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\ui\\invoices\\status.tsx",
+              "RelativeToolTip": "nextjs-dashboard\\app\\ui\\invoices\\status.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-02-26T22:31:24.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "home.module.css",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\ui\\home.module.css",
+              "RelativeDocumentMoniker": "nextjs-dashboard\\app\\ui\\home.module.css",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\ui\\home.module.css",
+              "RelativeToolTip": "nextjs-dashboard\\app\\ui\\home.module.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-26T22:27:16.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "page.tsx",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\page.tsx",
+              "RelativeDocumentMoniker": "nextjs-dashboard\\app\\page.tsx",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\page.tsx",
+              "RelativeToolTip": "nextjs-dashboard\\app\\page.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-02-26T22:24:24.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "layout.tsx",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\layout.tsx",
+              "RelativeDocumentMoniker": "nextjs-dashboard\\app\\layout.tsx",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\layout.tsx",
+              "RelativeToolTip": "nextjs-dashboard\\app\\layout.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-02-26T22:22:59.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "global.css",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\ui\\global.css",
+              "RelativeDocumentMoniker": "nextjs-dashboard\\app\\ui\\global.css",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\ui\\global.css",
+              "RelativeToolTip": "nextjs-dashboard\\app\\ui\\global.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-26T22:24:18.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "search.tsx",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\ui\\search.tsx",
+              "RelativeDocumentMoniker": "nextjs-dashboard\\app\\ui\\search.tsx",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\NextJSCourse2\\nextjs-dashboard\\app\\ui\\search.tsx",
+              "RelativeToolTip": "nextjs-dashboard\\app\\ui\\search.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-02-26T22:22:56.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
